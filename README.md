@@ -1,3 +1,4 @@
+![](images/dairacc_logo.png)
 # DaiRacc (Dairy R accelerometer)
 Analyse accelerometer data in the dairy industry (Dairy R accelerometer = DaiRacc)
 
